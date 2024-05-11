@@ -75,6 +75,14 @@ If you wish to contribute to this project, follow these steps:
 
 @dev-angelist ([GitHub profile](https://github.com/dev-angelist)) 
 
+
+## Legal Disclaimer
+
+Please note that conducting port scanning activities may be illegal in some jurisdictions without proper authorization. Before using this tool, ensure that you have the necessary permissions to perform scanning activities on the target network. Unauthorized port scanning can potentially violate laws and regulations related to computer security and privacy.
+
+It is your responsibility to comply with all applicable laws and regulations in your jurisdiction. The author of this script does not condone or endorse any illegal or unauthorized use of this tool.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
