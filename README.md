@@ -11,6 +11,15 @@ Python Port Scanner is a Python script that allows you to identify open ports on
 - Python 3.x
 - pyfiglet library (installable via `pip install pyfiglet`)
 
+## Download
+
+On the repository page, click on the "Code" button located near the top-right corner. This will open a dropdown menu with a few options. Select "Download ZIP" to download the repository as a ZIP file. Or use following command via terminal:
+
+```
+git clone [https://github.com/username/repository.git](https://github.com/dev-angelist/Python-Port-Scanner)
+```
+
+
 ## Usage
 
 ### Basic Example
