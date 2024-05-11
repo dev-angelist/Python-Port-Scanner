@@ -2,7 +2,9 @@
 
 Python Port Scanner is a Python script that allows you to identify open ports on one or more specified IP addresses received as argument (via command line or file).
 
-![image](https://github.com/dev-angelist/Python-Port-Scanner/assets/105108242/80faeb3e-5625-4e0f-9360-51c58ee9ecc0)
+
+![image](https://github.com/dev-angelist/Python-Port-Scanner/assets/105108242/1c18de87-b48e-44b6-9a01-f676bd175021)
+
 
 ## Requirements
 
@@ -16,7 +18,7 @@ Python Port Scanner is a Python script that allows you to identify open ports on
 To perform a port scan on a single IP address:
 
 ```
-python3 scan.py -i 127.0.0.1
+python3 port_scan.py -i 127.0.0.1
 ```
 
 ### Scanning Multiple IP Addresses
@@ -24,7 +26,7 @@ python3 scan.py -i 127.0.0.1
 You can specify multiple IP addresses separated by commas or spaces:
 
 ```
-python3 scan.py -i 127.0.0.1,192.168.1.1,10.0.0.1
+python3 port_scan.py -i 127.0.0.1,192.168.1.1,10.0.0.1
 ```
 
 ### Scanning from File
@@ -32,7 +34,7 @@ python3 scan.py -i 127.0.0.1,192.168.1.1,10.0.0.1
 You can specify IP addresses from a text file, with one address per line:
 
 ```
-python3 scan.py -f ip_list.txt
+python3 port_scan.py -f ip_list.txt
 ```
 
 The `ip_list.txt` file should contain IP addresses as follows:
@@ -48,7 +50,7 @@ The `ip_list.txt` file should contain IP addresses as follows:
 You can specify a directory to save output files containing the identified open ports:
 
 ```
-python3 scan.py -i 127.0.0.1 -o output_directory
+python3 port_scan.py -i 127.0.0.1 -o output_directory
 ```
 
 ### Viewing Help
@@ -56,7 +58,7 @@ python3 scan.py -i 127.0.0.1 -o output_directory
 To display help with available options:
 
 ```
-python3 scan.py -help
+python3 port_scan.py -help
 ```
 
 ## Contributing
