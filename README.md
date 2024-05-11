@@ -1,11 +1,3 @@
-    ____  ____  ____  ______   _____ _________    _   ___   ____________ 
-   / __ \/ __ \/ __ \/_  __/  / ___// ____/   |  / | / / | / / ____/ __ \
-  / /_/ / / / / /_/ / / /     \__ \/ /   / /| | /  |/ /  |/ / __/ / /_/ /
- / ____/ /_/ / _, _/ / /     ___/ / /___/ ___ |/ /|  / /|  / /___/ _, _/ 
-/_/    \____/_/ |_| /_/     /____/\____/_/  |_/_/ |_/_/ |_/_____/_/ |_|  
-                                                                         
--------------------------------------------------------------------------
-
 # Python Port Scanner
 
 Python Port Scanner is a Python script that allows you to identify open ports on one or more specified IP addresses received as argument (via command line or file).
